@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @godfatherhaiku007
-- 👀 I’m interested in Coding and Web Development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Coding and iOS Development
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me JUst DM me.
 
