@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @godfatherhaiku007
 - 👀 I’m interested in Coding and Machine Learning
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me just DM me.
 
